@@ -14,3 +14,4 @@ print(validateSeq(randDNAStr))
 
 # 碱基计数
 print(countNucFrequency(randDNAStr))
+

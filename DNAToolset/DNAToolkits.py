@@ -19,4 +19,4 @@ def countNucFrequency(seq):
     for nuc in seq:
         tmpFreqDict[nuc] += 1
     return tmpFreqDict
-    # return dict(collections.Counter(seq)) 同样的效果
+    # return dict(collections.Counter(seq)) #同样的效果
