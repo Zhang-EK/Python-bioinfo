@@ -1,3 +1,4 @@
+#! python3
 # -*- coding: UTF-8 -*-
 
 # 字符与赋值
